@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-max2d7.gcpboxpro.com/sitemap.xml
